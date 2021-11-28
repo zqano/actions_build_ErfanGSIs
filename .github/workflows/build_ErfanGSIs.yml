@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.3.0.QEHCNXM/miui_MI8Explorer_V12.5.3.0.QEHCNXM_f74f11c229_10.0.zip
+  ROM_URL: https://1-24-81-1.ksyungslb.com/bigota.d.miui.com/V12.5.1.0.QDGCNXM/miui_MIMIX2S_V12.5.1.0.QDGCNXM_8326b14c82_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fxiaomirom.com%2F
   ROM_NAME: MIUI
   BUILD_TYPE: a
   TZ: Asia/Shanghai
